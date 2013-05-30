@@ -85,6 +85,16 @@ Please check the sample project too for a complete implementation of `SHRESTful`
 Any ideas to make this better?
 
 
+## Support
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" style="text-align: center; padding-top:5px">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="MZ4LKCTHYX5LQ">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
 ## About
 
 Shahin Katebi
@@ -92,5 +102,3 @@ Shahin Katebi
 - [Shaahin.us](http://shaahin.us)
 - [GitHub/shaahin](http://github.com/shaahin)
 - [Twitter/ShahinKatebi](http://twitter.com/ShahinKatebi)
-
-
